@@ -1,0 +1,21 @@
+{
+  "name": "micro-gallery-demo",
+  "version": "1.0.0",
+  "description": "A demo for micro-gallery",
+  "main": "index.js",
+  "scripts": {
+    "start": "gallery ./images"
+  },
+  "repository": "https://github.com/andreasmcdermott/micro-gallery-demo",
+  "keywords": [
+    "micro",
+    "gallery",
+    "demo",
+    "zeit"
+  ],
+  "author": "Andreas McDermott <a@mcdrmtt.co>",
+  "license": "MIT",
+  "dependencies": {
+    "micro-gallery": "^0.4.2"
+  }
+}

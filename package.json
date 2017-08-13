@@ -16,6 +16,6 @@
   "author": "Andreas McDermott <a@mcdrmtt.co>",
   "license": "MIT",
   "dependencies": {
-    "micro-gallery": "^0.4.3"
+    "micro-gallery": "^0.4.5"
   }
 }

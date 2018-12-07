@@ -1,12 +1,12 @@
 {
-  "name": "micro-gallery-demo",
+  "name": "mac&jax wedding photos",
   "version": "1.0.0",
-  "description": "A demo for micro-gallery",
+  "description": "Wedding Photos",
   "main": "index.js",
   "scripts": {
-    "start": "gallery ./images"
+    "start": "gallery https://s3.amazonaws.com/m-alfred/wedding-photos"
   },
-  "repository": "https://github.com/andreasmcdermott/micro-gallery-demo",
+  "repository": "https://github.com/marcusalfred/micro-gallery-demo",
   "keywords": [
     "micro",
     "gallery",
